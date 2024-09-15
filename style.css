@@ -5,7 +5,14 @@ body{
 }
 
 ul{
-    color: violet;
+    color: darkmagenta;
+    font-weight: bold;
     text-align: left;
-    font-size: large;
+    font-size: x-large;
 }
+
+.home-image {
+    width: 250px;
+    border: 2px solid black;
+}
+

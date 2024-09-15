@@ -17,8 +17,8 @@ ul{
 }
 
 .footer{
-position:fixed;
-bottom:0;
+position:absolute;
+bottom: 10px;
 text-align: center;
 width: 100%;
 font-size: x-large;
